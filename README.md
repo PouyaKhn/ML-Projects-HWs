@@ -16,9 +16,9 @@ Theoretical: [[Question]](HW2/HW2_Questions.pdf) [[Solutions]](HW2/HW2_Solutions
 
 ### HW3
 
-Theoretical: [[Questions]](HW3/HW3_Questions.pdf) [[Solutions]](HW3/Theoretical_Questions_Solutions/HW3_99210283.pdf)
+Theoretical: [[Questions]](HW3/HW3_Questions.pdf) [[Solutions]](HW3/Theoretical/HW3_99210283.pdf)
 
-Practical: [[Questions]](HW3/HW3_Questions.pdf) [[notebook]](HW3/Practical Questions Codes/HW3_Practical_Questions_Codes.ipynb) [[python]](HW3/Practical Questions Codes/HW3_Practical_Questions_Codes.py) [[pdf]](HW3/Practical Questions Codes/HW3_Practical_Questions_Codes.pdf)
+Practical: [[Questions]](HW3/HW3_Questions.pdf) [[notebook]](HW3/Practical/HW3_Practical_Questions_Codes.ipynb) [[python]](HW3/Practical/HW3_Practical_Questions_Codes.py) [[pdf]](HW3/Practical/HW3_Practical_Questions_Codes.pdf)
 
 ### HW4
 
