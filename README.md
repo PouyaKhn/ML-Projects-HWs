@@ -30,7 +30,7 @@ Practical: [[Questions]](HW4/HW4_Questions.pdf) [[notebook]](HW4/Practical/HW4_P
 
 Theoretical: [[Questions]](HW5/HW5_Questions.pdf) [[Solutions]](HW5/Theoretical/HW5_99210283.pdf)
 
-Practical: [[Questions]](HW5/HW5_Questions.pdf) [[notebook]](HW5/Practical/HW5_Practical_Questions_Codes.ipynb) [[python]](HW5/Practical/HW5_Practical_Questions_Codes.py) [[pdf]](HW5/Practical/HW5_Practical_Questions_Codes.pdf)
+Practical: [[Questions]](HW5/HW5_Questions.pdf) [[notebook]](HW5/Practical/Q5_Practical_Questions_Codes.ipynb) [[python]](HW5/Practical/Q5_Practical_Questions_Codes.py) [[pdf]](HW5/Practical/Q5_Practical_Questions_Codes.pdf)
 
 ### HW6
 
