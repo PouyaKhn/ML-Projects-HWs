@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/repo-size/PouyaKhn/ML-Projects-HWs)
 
 # Machine Learning Course Codes and Solutions
-This repository contains my codes for HomeWorks and Projects of Machine Learning course held at Sharif University of Technology (SUT) by Prof. Mohammad Hossein Rohban in Spring 2022.
+This repository contains my codes for HomeWorks and Projects of Machine Learning course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Mohammad Hossein Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ) in Spring 2022.
  
 ## HomeWorks
 
