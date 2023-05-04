@@ -50,7 +50,7 @@ Theoretical: [[Questions]](HW8/HW8_Questions.pdf) [[Solutions]](HW8/Theoretical/
 
 Practical: [[Questions]](HW8/HW8_Questions.pdf) [[notebook]](HW8/Practical/HW8_Practical_Questions_Codes.ipynb) [[python]](HW8/Practical/HW8_Practical_Questions_Codes.py) [[pdf]](HW8/Practical/HW8_Practical_Questions_Codes.pdf)
 
-### Final Project
+## Final Project
 
 PHASE 1: [[Project Description]](Final_Project/phase1/Final_Project_Phase1_Description.pdf) [[Code Solution]](Final_Project/phase1/Solution/ML_phase1_code.ipynb) [[Technical Report]](Final_Project/phase1/Technical_Report/ML_phase1_report.pdf)
 
